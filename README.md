@@ -1,6 +1,7 @@
 # COVID-19-Case-Analysis
 Developed a basic COVID-19 Case Analysis project in Python. The program analyzes monthly COVID-19 cases and calculates total, average, highest, and lowest case counts using core Python concepts such as lists, loops, and functions.
 This project focuses on analyzing COVID-19 case data using core Python programming concepts. The objective is to study the spread of COVID-19 by examining case counts over different time periods and extracting meaningful insights from the data.
+
 The program performs basic statistical analysis, including:
 Calculation of total COVID-19 cases
 Identification of highest and lowest case counts
